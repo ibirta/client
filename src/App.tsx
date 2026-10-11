@@ -8,6 +8,12 @@ function App() {
       description: "My personal website showcasing my projects and skills.",
       link: "#",
     },
+    {
+      title: "Little Rooms",
+      description:
+        "A dollhouse decorator: drag furniture into four rooms, recolor pieces, and try a sample layout.",
+      link: "/little-rooms.html",
+    },
   ]);
 
   return (
